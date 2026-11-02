@@ -1,4 +1,8 @@
-# Irigații Gazon 3.0 — L1
+# Irigații Gazon 3.0 — L2 local
+
+Această ramură implementează L2. Consultă [README-L2.md](README-L2.md) pentru comenzile actuale, migrare și testarea pe iPhone. Build-ul acestei ramuri este în `dist-l2/`, iar preview-ul separat rulează cu `pnpm preview:l2` pe portul 4174. Instrucțiunile L1 de mai jos sunt păstrate ca referință pentru ramura `develop/l1-foundation`.
+
+## Referință L1
 
 Aplicație React + TypeScript + Vite, izolată complet de `../index.html`.
 Nu există configurare de deploy sau modificări GitHub Pages.
